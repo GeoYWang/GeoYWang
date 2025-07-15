@@ -15,11 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 👋 Hi, I’m @GeoYWang
-- 🌱 I’m currently major in Mathematics at New York University
-- 💞️ I’m looking to study more coding language and project experience...
-- 📫 How to reach me? email: geo[at]grrlz[dot]net
-- ⚡ Fun fact: Love Patchouli!
+- 👋 Hello, I’m @GeoYWang
+- 🌱 I’m currently a junior major in Mathematics and Computer Science at New York University
+- 💞️ I’m familiar with Python, C++, JavaScript, HTML, LaTex
+- 📫 How to reach me? email: `geo@grrlz.net` or `geo.wang+ac@nyu.edu`
+<!--- ⚡ Fun fact: Love Patchouli!-->
+
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=GeoYWang&layout=pie&theme=tokyonight&langs_count=8)
 
