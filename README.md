@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me? email: `geo@grrlz.net` or `geo.wang+ac@nyu.edu`
 <!--- ⚡ Fun fact: Love Patchouli!-->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GeoYWang&layout=donut&theme=tokyonight)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GeoYWang&layout=donut&theme=tokyonight)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AcideFluorhydrique)
 <!---
