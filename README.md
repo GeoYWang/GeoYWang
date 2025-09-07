@@ -34,8 +34,8 @@ Here are some ideas to get you started:
 
 ## Hi there 👋
 
-I'm Geo Wang, a student at NYU 27' majoring in Mathematics.
-- 🔭 I’m currently working on research projects on Efficient NLP.
+I'm Geo Wang, a student at NYU 27' majoring in Mathematics. I'm familiar with Python, C++, JavaScript, HTML, LaTex.
+- 🔭 I'm currently working on research projects on Efficient NLP.
 - 👯 Besides, I'm contributing to [Huggingface Transformers](https://github.com/huggingface/transformers), and I wish I could be an official contributor some day.
   
 - I also throw in a few PRs for projects that I personally use. The most recent PRs are:
