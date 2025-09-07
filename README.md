@@ -36,7 +36,8 @@ Here are some ideas to get you started:
 
 I'm Geo Wang, a student at NYU 27' majoring in Mathematics. I'm familiar with Python, C++, JavaScript, HTML, LaTex.
 - I'm the founder of [DMXY Studio](https://github.com/DMXYstudio), which is mainly focused on science and engineering research.
-- 👯 Besides, I'm contributing to [Huggingface Transformers](https://github.com/huggingface/transformers), and I wish I could be an official contributor some day.
+- I made [grokAssist](https://github.com/DMXYstudio/grokAssist), which allows users to use grok on android devices without GMS.
+
   
 - I also throw in a few PRs for projects that I personally use. The most recent PRs are:
   * [gptAssist](https://f-droid.org/packages/org.woheller69.gptassist), a simple WebView wrapper for ChatGPT
