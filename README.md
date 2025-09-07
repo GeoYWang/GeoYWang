@@ -35,12 +35,14 @@ Here are some ideas to get you started:
 ## Hi there 👋
 
 I'm Geo Wang, a student at NYU 27' majoring in Mathematics. I'm familiar with Python, C++, JavaScript, HTML, LaTex.
-- 🔭 I'm currently working on research projects on Efficient NLP.
+- I'm the founder of [DMXY Studio](https://github.com/DMXYstudio), which is mainly focused on science and engineering research.
 - 👯 Besides, I'm contributing to [Huggingface Transformers](https://github.com/huggingface/transformers), and I wish I could be an official contributor some day.
   
 - I also throw in a few PRs for projects that I personally use. The most recent PRs are:
-  * [gptAssist](https://github.com/woheller69/gptAssist), a simple WebView wrapper for ChatGPT
+  * [gptAssist](https://f-droid.org/packages/org.woheller69.gptassist), a simple WebView wrapper for ChatGPT
   * [Tab Reloader](https://github.com/james-fray/tab-reloader), a multiple-browser tab reloader extension
+  * [Control Panel for Twitter](https://soitis.dev/control-panel-for-twitter), which controls over Twitter/X timeline better
+
 
 - 📫 The best way to reach me is by [email](mailto:geo.wang+ac@nyu.edu).
 
