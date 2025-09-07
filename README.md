@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 👋 Hello, I’m @GeoYWang
 - 🌱 I’m currently a junior major in Mathematics and Computer Science at New York University
 - 💞️ I’m familiar with Python, C++, JavaScript, HTML, LaTex
-- 📫 How to reach me? email: `geo@grrlz.net` or `geo.wang+ac@nyu.edu`
+- 📫 How to reach me? email: `geo[dot]wang[plus]ac[at]nyu[dot]edu`
 <!--- ⚡ Fun fact: Love Patchouli!-->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GeoYWang&layout=donut&theme=tokyonight)
