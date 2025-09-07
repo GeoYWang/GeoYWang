@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me? email: `geo[dot]wang[plus]ac[at]nyu[dot]edu`
 <!--- ⚡ Fun fact: Love Patchouli!-->
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=GeoYWang&layout=pie&theme=tokyonight&langs_count=8)
+<img alt="summary-card" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GeoYWang&theme=tokyonight" style="width:80%"/>
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GeoYWang&layout=donut&theme=tokyonight)
