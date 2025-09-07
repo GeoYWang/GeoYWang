@@ -18,11 +18,6 @@ Here are some ideas to get you started:
 
 
 
-[🇬🇧English](./README.md)  |  [🇫🇷Français](./README.fr.md)  |  [🇨🇳中文](./README.zh.md)
-
-
----
-
 <!---
 - 👋 Hello, I’m @GeoYWang
 - 🌱 I’m currently a junior major in Mathematics and Computer Science at New York University
@@ -33,6 +28,13 @@ Here are some ideas to get you started:
 
 
 ## Hi there 👋
+
+
+
+[🇬🇧English](./README.md)  |  [🇫🇷Français](./README.fr.md)  |  [🇨🇳中文](./README.zh.md)
+
+
+---
 
 I'm Geo Wang, a student at NYU 27' majoring in Mathematics. I'm familiar with Python, C++, JavaScript, HTML, LaTex.
 - I'm the founder of [DMXY Studio](https://github.com/DMXYstudio), which is mainly focused on science and engineering research.
