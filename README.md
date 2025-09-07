@@ -15,6 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+
+
+[🇬🇧English](./README.md)  |  [🇫🇷Français](./README.fr.md)  |  [🇨🇳中文](./README.zh.md)
+
+
+---
+
+
 - 👋 Hello, I’m @GeoYWang
 - 🌱 I’m currently a junior major in Mathematics and Computer Science at New York University
 - 💞️ I’m familiar with Python, C++, JavaScript, HTML, LaTex
