@@ -1,6 +1,6 @@
 ## 諸君安 👋
 
-[🇬🇧English](./README.md)  |  [🇫🇷Français](./README.fr.md)  |  [🇨🇳中文](./README.zh.md)
+[🇬🇧English](./README.md)  |  [🇫🇷Français](./README.fr.md)  |  [🇹🇼中文](./README.zh.md)
 
 ---
 
