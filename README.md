@@ -56,7 +56,7 @@ I'm Geo Wang, a student at NYU 27' majoring in Mathematics. I'm familiar with Py
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GeoYWang&theme=github-compact&area=true&days=60&height=300)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 [![Anurag's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=GeoYWang&layout=donut&theme=tokyonight&show=reviews,discussions_started,discussions_answered&show_icons=true&card_width=380)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=GeoYWang&&theme=tokyonightlayout=compact&card_width=400&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GeoYWang&layout=donut&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 
 [![Torophy](https://github-profile-trophy-fork-two.vercel.app/?username=GeoYWang&theme=light&no-frame=true&margin-w=120&margin-h=10&column=5)](https://github-profile-trophy-fork-two.vercel.app/?username=itagagaki&theme=light&margin-w=50&margin-h=15)
