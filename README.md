@@ -47,7 +47,29 @@ I'm Geo Wang, a student at NYU 27' majoring in Mathematics. I'm familiar with Py
   * [Control Panel for Twitter](https://soitis.dev/control-panel-for-twitter), which controls over Twitter/X timeline better
 
 
-- 📫 The best way to reach me is by [email](mailto:geo.wang+ac@nyu.edu).
+- 📫 The best way to reach me is by [email](https://geoywang.github.io/contact/email/).
+
+
+
+# GitHub Stats
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GeoYWang&theme=github-compact&area=true&days=60&height=300)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![Anurag's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=GeoYWang&layout=donut&theme=tokyonight&show=reviews,discussions_started,discussions_answered&show_icons=true&card_width=380)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=GeoYWang&&theme=tokyonightlayout=compact&card_width=400&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)
+<!---
+
+[![Torophy](https://github-profile-trophy-fork-two.vercel.app/?username=GeoYWang&theme=light&no-frame=true&margin-w=120&margin-h=10&column=5)](https://github-profile-trophy-fork-two.vercel.app/?username=itagagaki&theme=light&margin-w=50&margin-h=15)
+
+
+--->
+
+
+
+
+
+
+<!---
 
 
 <img alt="summary-card" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GeoYWang&theme=tokyonight" style="width:80%"/>
@@ -56,7 +78,6 @@ I'm Geo Wang, a student at NYU 27' majoring in Mathematics. I'm familiar with Py
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GeoYWang&layout=donut&theme=tokyonight)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=GeoYWang)
-<!---
-AcideFluorhydrique/AcideFluorhydrique is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 You can click the Preview link to take a look at your changes.
 --->
